@@ -1,0 +1,1 @@
+require 'messenger_rails'
